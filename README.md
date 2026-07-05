@@ -7,7 +7,7 @@ Computer Science Student &nbsp;|&nbsp; Front-End Developer &nbsp;|&nbsp; ML Enth
 <a href="https://sahis-portfolio.netlify.app">Portfolio</a> &nbsp;•&nbsp;
 <a href="https://linkedin.com/in/hafiz-ahmed-jameel-76674335b">LinkedIn</a> &nbsp;•&nbsp;
 <a href="mailto:ahmadsahi344@gmail.com">Email</a> &nbsp;•&nbsp;
-Phone: 0333-6600700
+
 </p>
 
 <p align="center">
