@@ -61,12 +61,13 @@ Relevant Coursework: Data Structures & Algorithms, Object-Oriented Programming, 
 ## GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedSahi&show_icons=true&theme=default&hide_title=false&hide_border=true" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedSahi&theme=default&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSahi&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165" />
+<img src="https://img.shields.io/github/followers/AhmedSahi?style=for-the-badge&label=Followers&color=1e3a5f" alt="Followers" />
+<img src="https://img.shields.io/github/last-commit/AhmedSahi/AhmedSahi?style=for-the-badge&label=Last%20Commit&color=2f6f4f" alt="Last Commit" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AhmedSahi&label=Public%20Repos&query=public_repos&style=for-the-badge&color=1e3a5f" alt="Public Repos" />
 </p>
 
 ## Currently Exploring
